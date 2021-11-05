@@ -1,0 +1,9 @@
+body {
+    background-image: url(bgbiru.jpg);
+}
+
+.download {
+    padding-left: 625px;
+    padding-top: 100px;
+    color: red;
+}
