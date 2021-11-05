@@ -1,0 +1,12 @@
+body {
+    background-image: url(bgbiru.jpg);
+}
+
+.download {
+    padding-left: 625px;
+    padding-top: 100px;
+    color: red;
+}
+h4 {
+    color: rgb(0, 0, 0);
+}
